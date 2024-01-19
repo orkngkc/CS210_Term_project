@@ -5,10 +5,12 @@ In this project i have analysed my own spotify streaming history and search quer
 
 ![ListeningMonth](https://github.com/orkngkc/CS210_Term_project/assets/115142137/3462bd95-dacb-4ac2-9db8-4aaa88f54061)
 
+![top10Year](https://github.com/orkngkc/CS210_Term_project/assets/115142137/b79b0503-0514-4fdb-be34-ef6a7e79f16d)
 
-![HabitSeasonal](https://github.com/orkngkc/CS210_Term_project/assets/115142137/fca7b739-d558-4c82-a980-795acbf16ef9)
+
 
 Furthermore there is a sentiment analysis part, I have fetched the lyrics of the songs that I have listened and made a sentiment analysis on them, My hypothesis was changed since the proposal because the data was not capable of answering the first Hypothesis. My hypothesis is, Our streaming habits are changing according to our emotional conditions for example in summer we are tending to listen more positive vibed songs since we are more outgoing and more energetic. Sentiment Analysis is supporting that hypothesis as can be seen in the related chart on the notebook. 
+
 ![sentimentSeasonal](https://github.com/orkngkc/CS210_Term_project/assets/115142137/b44a9d5f-23bd-4d39-83f5-00ef15bc7cc8)
 ![sentimentMonthly](https://github.com/orkngkc/CS210_Term_project/assets/115142137/871da795-f9a1-4108-943c-30238e1b8ec9)
 
